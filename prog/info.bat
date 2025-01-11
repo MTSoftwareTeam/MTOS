@@ -9,6 +9,7 @@ echo SHELL: %shell%
 echo EDITION: %edition%
 echo KERNEL: %kernel% -- %ver%@28.10.2024
 echo PLUGINS LOADED: %plugins%
+echo COPYRIGHT MTSoftware 2025
 echo ---------- Open source projects used ----------
 echo Discord status: 
 echo https://github.com/Pizzabelly/EasyRP
